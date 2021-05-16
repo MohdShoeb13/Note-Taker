@@ -6,9 +6,9 @@
 	
 <hibernate-configuration>
     <session-factory>
-       <property name="connection.url">jdbc:postgresql://ec2-18-215-111-67.compute-1.amazonaws.com:5432/dbpdtc5dguu77</property>
-       <property name="connection.username">wkneuzbhcyhnim</property>
-       <property name="connection.password">3ab2a681d68613b719575ef27cff2efcf14a68213eaefd06b860abbe3173b3dd</property>
+       <property name="connection.url">jdbc:postgresql://ec2-3-212-75-25.compute-1.amazonaws.com:5432/d8r7qdsctoje06</property>
+       <property name="connection.username">wdkmypyuhudnbm</property>
+       <property name="connection.password">3b069318afa5e93d973de333ff2b5ccf927331e61fcd0de9f11a17c96a06c581</property>
        <property name="dialect">org.hibernate.dialect.PostgreSQLDialect</property>
        <property name="hbm2ddl.auto">update</property>
        <property name="show_sql">true</property>
